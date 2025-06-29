@@ -52,15 +52,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryan-hansoti&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheCodrrr&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=aryan-hansoti&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=TheCodrrr&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-hansoti&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCodrrr&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
