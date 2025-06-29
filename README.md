@@ -115,12 +115,6 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheCodrrr&color=blue&style=for-the-badge" alt="Profile Views"/>
-  <br/>
-  <i>⭐️ From me (https://github.com/TheCodrrr)</i>
-</div>
-
-<div align="center">
   <h3>Thanks for visiting! 😊</h3>
   <p>Feel free to reach out if you want to collaborate on a project or just chat about tech!</p>
 </div>
