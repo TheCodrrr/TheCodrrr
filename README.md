@@ -62,10 +62,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCodrrr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheCodrrr&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## 🎯 What I'm Working On
 
 - 🔨 Building full-stack applications with React and Node.js
