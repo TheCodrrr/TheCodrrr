@@ -75,12 +75,9 @@
 
 ## 🌟 Featured Projects
 
-<!-- Add your best projects here -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheCodrrr&repo=your-repo-name&theme=radical)](https://github.com/yourusername/your-repo-name)
-
 ## 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheCodrrr&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" alt="Activity Graph"/>
 
 ## 🏆 GitHub Trophies
 
@@ -120,7 +117,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TheCodrrr&color=blue&style=for-the-badge" alt="Profile Views"/>
   <br/>
-  <i>⭐️ From [yourusername](https://github.com/TheCodrrr)</i>
+  <i>⭐️ From me (https://github.com/TheCodrrr)</i>
 </div>
 
 <div align="center">
